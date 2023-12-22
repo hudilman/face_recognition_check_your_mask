@@ -7,7 +7,7 @@ program ini saya buat untuk memenuhi salah satu tugas uts di kampus saya, dan pr
 # library
 
 adapun library yang saya gunakan yaitu opencv dan winsound
-
+ 
 ## cara menjalankan program
 
 1. Download atau bisa clone repository yang saya miliki
